@@ -22,6 +22,7 @@ In this project, we worked with the Bank Marketing data. we useed Azure to confi
 ![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/schedule_run.PNG)
 
 **step-3 Best Model**
+
 ![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/best_model.PNG)
 
 **Step4- Creating pipeline Endpoint**
