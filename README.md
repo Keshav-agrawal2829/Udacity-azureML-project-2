@@ -12,7 +12,34 @@ In this project, we worked with the Bank Marketing data. we useed Azure to confi
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+step1:- load dataset 
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/bench_mark_data.PNG)
 
+step - Create and submit the pipeline for AML
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/aml_pipeline.PNG)
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/pipeline_widget.PNG)
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/schedule_run.PNG)
+
+Best Model
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/best_model.PNG)
+
+Step- Creating pipeline Endpoint
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/pipeline_endpoint.PNG)
+
+Step3- Viewing endpoints on Swagger UI
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/swagger.PNG)
+
+Step2 - Deploying Model
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/web-deployement.PNG)
+
+API endpoint status
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/app_insight.PNG)
+
+Step - Check the response of API
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/response.PNG)
+
+logs of API call
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/logs.PNG)
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
