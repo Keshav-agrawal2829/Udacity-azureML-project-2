@@ -42,6 +42,7 @@ In this project, we worked with the Bank Marketing data. we useed Azure to confi
 ![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/logs.PNG)
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+![alt text](https://youtu.be/apGQPapveV4)
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
