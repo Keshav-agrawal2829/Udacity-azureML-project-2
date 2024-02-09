@@ -8,7 +8,7 @@ In this project, we worked with the Bank Marketing data. we useed Azure to confi
 
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
-![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/arch.PNG)
+![alt text](https://github.com/Keshav-agrawal2829/Udacity-azureML-project-2/blob/main/arch1.PNG)
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
